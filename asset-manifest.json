@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/metallic-burger-web/static/css/main.3ab37bd0.chunk.css",
-    "main.js": "/metallic-burger-web/static/js/main.56c1053f.chunk.js",
-    "main.js.map": "/metallic-burger-web/static/js/main.56c1053f.chunk.js.map",
+    "main.js": "/metallic-burger-web/static/js/main.c6bc0b97.chunk.js",
+    "main.js.map": "/metallic-burger-web/static/js/main.c6bc0b97.chunk.js.map",
     "runtime-main.js": "/metallic-burger-web/static/js/runtime-main.bc0b5ab3.js",
     "runtime-main.js.map": "/metallic-burger-web/static/js/runtime-main.bc0b5ab3.js.map",
     "static/js/2.82e7d069.chunk.js": "/metallic-burger-web/static/js/2.82e7d069.chunk.js",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.bc0b5ab3.js",
     "static/js/2.82e7d069.chunk.js",
     "static/css/main.3ab37bd0.chunk.css",
-    "static/js/main.56c1053f.chunk.js"
+    "static/js/main.c6bc0b97.chunk.js"
   ]
 }
