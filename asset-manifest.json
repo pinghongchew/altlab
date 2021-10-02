@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/altlab/static/css/main.e87ed18e.chunk.css",
-    "main.js": "/altlab/static/js/main.b280989b.chunk.js",
-    "main.js.map": "/altlab/static/js/main.b280989b.chunk.js.map",
-    "runtime-main.js": "/altlab/static/js/runtime-main.684c1c8e.js",
-    "runtime-main.js.map": "/altlab/static/js/runtime-main.684c1c8e.js.map",
+    "main.js": "/altlab/static/js/main.a23a95a2.chunk.js",
+    "main.js.map": "/altlab/static/js/main.a23a95a2.chunk.js.map",
+    "runtime-main.js": "/altlab/static/js/runtime-main.53b1e76d.js",
+    "runtime-main.js.map": "/altlab/static/js/runtime-main.53b1e76d.js.map",
     "static/js/2.57217e18.chunk.js": "/altlab/static/js/2.57217e18.chunk.js",
     "static/js/2.57217e18.chunk.js.map": "/altlab/static/js/2.57217e18.chunk.js.map",
-    "static/js/3.cb26013b.chunk.js": "/altlab/static/js/3.cb26013b.chunk.js",
-    "static/js/3.cb26013b.chunk.js.map": "/altlab/static/js/3.cb26013b.chunk.js.map",
+    "static/js/3.b1d60b82.chunk.js": "/altlab/static/js/3.b1d60b82.chunk.js",
+    "static/js/3.b1d60b82.chunk.js.map": "/altlab/static/js/3.b1d60b82.chunk.js.map",
     "index.html": "/altlab/index.html",
     "static/css/main.e87ed18e.chunk.css.map": "/altlab/static/css/main.e87ed18e.chunk.css.map",
     "static/js/2.57217e18.chunk.js.LICENSE.txt": "/altlab/static/js/2.57217e18.chunk.js.LICENSE.txt",
@@ -23,9 +23,9 @@
     "static/media/main.27130999.gif": "/altlab/static/media/main.27130999.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.684c1c8e.js",
+    "static/js/runtime-main.53b1e76d.js",
     "static/js/2.57217e18.chunk.js",
     "static/css/main.e87ed18e.chunk.css",
-    "static/js/main.b280989b.chunk.js"
+    "static/js/main.a23a95a2.chunk.js"
   ]
 }
