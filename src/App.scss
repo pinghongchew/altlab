@@ -1,41 +1,8 @@
-$duration: 30s;
-
-// @-webkit-keyframes ticker {
-//   0% {
-//     -webkit-transform: translate3d(0, 0, 0);
-//     transform: translate3d(0, 0, 0);
-//     visibility: visible;
-//   }
-
-//   100% {
-//     -webkit-transform: translate3d(-100%, 0, 0);
-//     transform: translate3d(-100%, 0, 0);
-//   }
-// }
-
-// @keyframes ticker {
-//   0% {
-//     -webkit-transform: translate3d(0, 0, 0);
-//     transform: translate3d(0, 0, 0);
-//     visibility: visible;
-//   }
-
-//   100% {
-//     -webkit-transform: translate3d(-100%, 0, 0);
-//     transform: translate3d(-100%, 0, 0);
-//   }
-// }
-
-@-webkit-keyframes ticker {
-  0%   { transform: translate(0%, 0); }
-  100% { transform: translate(calc(-800% - 256px), 0); }
-}
-
 @keyframes ticker {
-  0%   { transform: translate(0%, 0); }
-  100% { transform: translate(calc(-800% - 256px), 0); }
+  0%   { transform: translateX(0%); }
+  100% { transform: translateX(calc(-272px * 8)); }
 }
 
 .ticker {
-  animation: ticker 15s linear infinite;
+  animation: ticker 30s linear infinite;
 }
